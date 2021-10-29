@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 .carousel-item{
@@ -26,8 +26,39 @@ width: 150px;
   border-radius: 12px;
   font-family: Georgia;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 15px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
 
+
+
+.card-body{
+    text-align: center;
+}
+.card img{
+    width: 55%;
+    padding: 8px;
+    
+}
+.card-footer{
+        background-color: white !important;
+        ;
+        border-top: none !important;
+        ;
+        align-items: center !important;
+}
+.cat-text{
+    text-align: center;
+}
+.cat-img{
+    align-items: center;
+}
+
+.categories-border {
+    border-bottom: 5px solid #FFBB24;
+    border-radius: 10%;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+  ;
+}
