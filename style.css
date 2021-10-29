@@ -30,8 +30,14 @@ width: 150px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
-
-
+.card-item {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 20%;
+}
+.category-section {
+    margin-bottom: 80px;
+}
 
 .card-body{
     text-align: center;
@@ -60,5 +66,12 @@ width: 150px;
     border-radius: 10%;
     margin-bottom: 20px;
     padding-bottom: 5px;
-  ;
+  
+}
+.category-item {
+    padding: 20px 20px;
+}
+
+footer{
+    text-align: center;
 }
